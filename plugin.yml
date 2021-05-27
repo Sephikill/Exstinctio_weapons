@@ -1,0 +1,20 @@
+name: Exstinctio_weapons
+version: ${project.version}
+main: sephikill.exstinctio_weapons.Exstinctio_weapons
+api-version: 1.16
+authors: [ Sephikill ]
+description: Items for war
+website: https://www.youtube.com/channel/UCES6p5cRqeN7Mlq0MbJUY3Q
+commands:
+  Sword_Revelation:
+    description: give blitz_sword
+    usage: /<commands>
+  Final_Revelation:
+    description: give Final_Revelation
+    usage: /<commands>
+  Dragon_Flame:
+    description: give DragonFlame
+    usage: /<commands>
+  SkyBlaster:
+    description:  give Skyblaster
+    usage: /<commands>
